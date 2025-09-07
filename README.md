@@ -1,1 +1,1 @@
-# HighSchool_Helper
+# HighSchool Helper
