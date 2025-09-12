@@ -13,3 +13,15 @@ It takes a math/physics problem written in plain English, asks a Large Language 
   **Architecture**
 
   <img width="214" height="250" alt="Screenshot 2025-09-11 at 7 50 47 PM" src="https://github.com/user-attachments/assets/917802ea-a341-4e9b-9ef5-02729bfa5a56" />
+
+
+  **How to run:**
+  - It uses ```uv``` as the package manager
+  - I also built a streamlit UI for easier workflow
+    
+ Run the commands in the following order 
+
+ `uv sync`
+
+ `uv run streamlit run ui.py`
+
